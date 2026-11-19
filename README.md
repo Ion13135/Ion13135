@@ -1,4 +1,4 @@
-<img width="1440" height="2453" alt="Ion 123" src="https://github.com/user-attachments/assets/622d4c54-f428-4b14-87c0-075a79f000a4" />
+
 # Hey 👋 What's up?
 ### My name is Sobraneschi Ion and I'm a Junior Python Developer.
 
@@ -41,3 +41,4 @@
 <p align="center">
 <img src="LINKUL_TAU_DIRECT_CATRE_POZA" alt="Sobraneschi Ion" width="150px" style="border-radius: 50%;" />
 </p>
+<img width="1440" height="2453" alt="Ion 123" src="https://github.com/user-attachments/assets/622d4c54-f428-4b14-87c0-075a79f000a4" />
