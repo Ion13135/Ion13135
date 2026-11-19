@@ -1,4 +1,5 @@
 
+
 # Hey 👋 What's up?
 ### My name is Sobraneschi Ion and I'm a Junior Python Developer.
 
@@ -7,7 +8,7 @@
 * 📚 I'm currently learning Full Stack Development (moving towards Machine Learning later)
 * 🎯 Goals: To master Full Stack development and build intelligent systems with Machine Learning.
 * 🎲 Fun fact: I love turning raw data into meaningful insights using Power BI and JupyterLab.
-
+                                                                                                                                                   <img width="1440" height="1821" alt="Ion1515" src="https://github.com/user-attachments/assets/48baea16-3ddc-4323-8998-4742b94c6bce" />
 ## I code with
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
