@@ -8,7 +8,11 @@
 * 📚 I'm currently learning Full Stack Development (moving towards Machine Learning later)
 * 🎯 Goals: To master Full Stack development and build intelligent systems with Machine Learning.
 * 🎲 Fun fact: I love turning raw data into meaningful insights using Power BI and JupyterLab.
-                                                                                                                                                   <img width="1440" height="1821" alt="Ion1515" src="https://github.com/user-attachments/assets/48baea16-3ddc-4323-8998-4742b94c6bce" />
+                                                                                                                                                   <img width="1440" height="1821" alt="Ion8792" src="https://github.com/user-attachments/assets/06242bfa-3c84-4f74-b010-0b73f6b12909" />
+                                                                                                                                                   <p align="center">
+                                                                                                                                                   <img src="LINKUL_TAU_DIRECT_CATRE_POZA" alt="Sobraneschi Ion" width="150px" style="border-radius: 50%;" />
+</p>
+
 ## I code with
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
