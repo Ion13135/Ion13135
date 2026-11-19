@@ -38,7 +38,3 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </p>
-<p align="center">
-<img src="LINKUL_TAU_DIRECT_CATRE_POZA" alt="Sobraneschi Ion" width="150px" style="border-radius: 50%;" />
-</p>
-<img width="1440" height="2453" alt="Ion 123" src="https://github.com/user-attachments/assets/622d4c54-f428-4b14-87c0-075a79f000a4" />
